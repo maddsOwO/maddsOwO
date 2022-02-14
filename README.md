@@ -5,12 +5,16 @@ Seja bem-vinde ao meu perfil!
 (❁´◡`❁)
 
 ⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑⁑
-- 🔭 No momento estou fazendo curso tecnico de TI na EPSA!
-- 🐱‍👤 Trabalhando como Front na Dafiti
-- 🐱‍👓 Amo desenhar
-- 🤫 Não sou boa em programação, mas é errando que se aprende... E eu to aprendendo muito!
-- 🌱 Sou ovolactovegetariana, contra a crueldade animal de qualquer tipo.
-- 🤓 Pronomes: PT-Ela/Ele ENG-She/He
+<div>
+ <img align="right" alt="madds" height="150em" style="border-radius:50px;" src="https://discord.com/channels/942822235809382531/942822236384010281/942822333134016543">
+  <a href="https://github.com/maddsOwO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maddsOwO&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddsOwO&layout=compact&langs_count=7&theme=aura"/>
+</div>
+<div style="display: inline_block"><br>
+
+ 
+</div>
 
 
 
