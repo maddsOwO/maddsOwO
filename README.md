@@ -13,6 +13,7 @@ Seja bem-vinde ao meu perfil!
  <img align= "right" img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddsOwO&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
+<img align= "right" img height= "150em" src= https://th.bing.com/th/id/R.d6fa14242c0c6aba9f3d5bd8d9b92164?rik=GIwdDFMaKMLZcg&riu=http%3a%2f%2fi.imgur.com%2fPvsMzoY.gif&ehk=5ZusnwTcPtGfwUxgNA1RU1n7xY4kWgQ0vxz2tdk0mns%3d&risl=1&pid=ImgRaw&r=0">
 
  </div>
 
