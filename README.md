@@ -10,9 +10,9 @@ Seja bem-vinde ao meu perfil!
   <a href="https://github.com/maddsOwO">
   <img align= "left" img height="170em" src="https://github-readme-stats.vercel.app/api?username=maddsOwO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  
- 
-   
 </div>
+
+##
 
 <div style="display: inline_block"><br>
 
@@ -24,7 +24,7 @@ Seja bem-vinde ao meu perfil!
   <img align="center" alt="madds-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 </div>
 
-##
+
          
 # <h3 align="left"> I-i-isso é tudo p-p-p-p-pessoal!!🐷 </h3>
 
