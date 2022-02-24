@@ -21,7 +21,7 @@ Seja bem-vinde ao meu perfil!
 <div style="display: inline_block"><br>
 
 
-
+<body>
 <p>🤯 Estudando: </p>  
    
   <img align="center" alt="madds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@ Seja bem-vinde ao meu perfil!
   <img align="center" alt="madds-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="madds-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    
 </div>
-
+</body>
 ##
          
 
