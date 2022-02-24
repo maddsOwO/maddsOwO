@@ -22,7 +22,7 @@ Seja bem-vinde ao meu perfil!
 
 
 
-<h3>🤯 Estudando: </h3>  
+<h4>🤯 Estudando: </h4>  
    
   <img align="center" alt="madds-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="madds-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
