@@ -14,7 +14,8 @@ Seja bem-vinde ao meu perfil!
 
 
 <div style="display: inline_block"><br>
-----------------------------------------------------------------------------------------------
+"Don't forget who you are even though you're in need.. Like a bird in the night, your emotions deserves to be freed"
+
  <h3>🤯 Estudando: </h3>  
    
   <img align="center" alt="madds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
