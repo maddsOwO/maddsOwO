@@ -11,6 +11,8 @@ Seja bem-vinde ao meu perfil!
   <img align= "right" img height="150em" src="https://github-readme-stats.vercel.app/api?username=maddsOwO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  
  <img align= "right" img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddsOwO&layout=compact&langs_count=7&theme=radical"/>
+
+
 <h4>🤯 Estudando: </h4>  
    
   <img align="center" alt="madds-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
