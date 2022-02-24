@@ -14,9 +14,7 @@ Seja bem-vinde ao meu perfil!
 
 
 <div style="display: inline_block"><br>
-<h4> "Don't forget who you are even though you're in need.. Like a bird in the night, your emotions deserves to be freed" </h4>
-<href= https://youtu.be/P7lE-G1oC34>
-</div>
+<h4> 🍃 "Don't forget who you are even though you're in need.. Like a bird in the night, your emotions deserves to be freed" 🍃</h4>
 <div>
  <h3>🤯 Estudando: </h3>  
    
