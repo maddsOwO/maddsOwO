@@ -26,9 +26,7 @@ Seja bem-vinde ao meu perfil!
 
 ##
          
-
-
- <div align="left"> I-i-isso é tudo p-p-p-p-pessoal!!🐷 </div>
+# <div align="left"> I-i-isso é tudo p-p-p-p-pessoal!!🐷 </div>
 
 ##
 
