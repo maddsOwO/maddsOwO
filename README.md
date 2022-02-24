@@ -13,12 +13,8 @@ Seja bem-vinde ao meu perfil!
 </div>
 
 
-##
-
-
-
 <div style="display: inline_block"><br>
-
+----------------------------------------------------------------------------------------------
  <h3>🤯 Estudando: </h3>  
    
   <img align="center" alt="madds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
