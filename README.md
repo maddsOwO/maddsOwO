@@ -11,13 +11,11 @@ Seja bem-vinde ao meu perfil!
   <img align= "right" img height="150em" src="https://github-readme-stats.vercel.app/api?username=maddsOwO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  
  
-
-
-<h4>🤯 Estudando: </h4>  
+<h3>🤯 Estudando: </h3>  
    
-  <img align="center" alt="madds-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="madds-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="madds-CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+  <img align="center" alt="madds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="madds-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="madds-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="madds-Bootstrap" height="25" width="95" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    
 </div>
 
@@ -28,7 +26,7 @@ Seja bem-vinde ao meu perfil!
 
 ##
          
-# <h4 align="left"> I-i-isso é tudo p-p-p-p-pessoal!!🐷 </h4>
+# <h3 align="left"> I-i-isso é tudo p-p-p-p-pessoal!!🐷 </h3>
 
 ##
 
