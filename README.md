@@ -14,8 +14,10 @@ Seja bem-vinde ao meu perfil!
 
 
 <div style="display: inline_block"><br>
-#<href= https://youtu.be/P7lE-G1oC34> <h4> "Don't forget who you are even though you're in need.. Like a bird in the night, your emotions deserves to be freed" </h4>
-
+<h4> "Don't forget who you are even though you're in need.. Like a bird in the night, your emotions deserves to be freed" </h4>
+<href= https://youtu.be/P7lE-G1oC34>
+</div>
+<div>
  <h3>🤯 Estudando: </h3>  
    
   <img align="center" alt="madds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
