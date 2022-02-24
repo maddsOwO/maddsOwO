@@ -10,14 +10,26 @@ Seja bem-vinde ao meu perfil!
   <a href="https://github.com/maddsOwO">
   <img align= "right" img height="180em" src="https://github-readme-stats.vercel.app/api?username=maddsOwO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  
- <img align= "right" img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddsOwO&layout=compact&langs_count=7&theme=radical"/>
+ <img align= "right" img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddsOwO&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
 <div style="display: inline_block"><br>
-<img align= "right" img height= "150em" src= https://th.bing.com/th/id/R.d6fa14242c0c6aba9f3d5bd8d9b92164?rik=GIwdDFMaKMLZcg&riu=http%3a%2f%2fi.imgur.com%2fPvsMzoY.gif&ehk=5ZusnwTcPtGfwUxgNA1RU1n7xY4kWgQ0vxz2tdk0mns%3d&risl=1&pid=ImgRaw&r=0">
+<h1> Estudando: </h1>  
+  
+  <img align="center" alt="madds-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="madds-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="madds-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+   <img align="left" alt="madds-Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
+</div>
 
- </div>
+## <div align="center"> I-i-isso é tudo p-p-p-pe-pessoal!! </div>
 
-##
+ <div>
+ <img align="center" alt="brent" height="120" style="border-radius:50px;" src="https://risibank.fr/cache/stickers/d1254/125482-full.gif">
+</div>
+
+
+
+
 
