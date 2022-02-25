@@ -2,7 +2,7 @@
 Maddu aqui 🐱‍💻
 Seja bem-vinde ao meu perfil! 
 
-(❁´◡`❁)
+ヽ(✿ﾟ▽ﾟ)ノ
 
 ##
 <div>
