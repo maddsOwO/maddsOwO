@@ -27,7 +27,7 @@ Seja bem-vinde ao meu perfil!
 
 
          
-# <h3 align="left"> I-i-isso é tudo p-p-p-p-pessoal!!🐷 </h3>
+# <h3 align="left"> 👾 Volte sempre! :D 👾 </h3>
 
 ##
 
